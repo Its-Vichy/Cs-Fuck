@@ -16,18 +16,18 @@
 
 > # Feature.
 
-* Glow Esp 
+* Glow Esp
 
 <br>
 
 > # Setup.
 
 ```
-0. pip install pystyle pynput pymem
+0. pip install -e
 1. Disable "raw mouse input" and "mouse acceleration" in cs:go settings
 2. python main.py
 3. Get fun !
-``` 
+```
 
 <br>
 
@@ -44,7 +44,7 @@
 * Made with 💖 by [Vichy](https://github.com/Its-Vichy).
 * RCΛ Love u.
 
-<p align="center"> 
+<p align="center">
     <b>Informations</b><br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Its-Vichy/Cs-Fuck?style=social">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Its-Vichy/Cs-Fuck">
