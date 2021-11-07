@@ -4,7 +4,7 @@ setup(
     name='Cs-Fuck',
     description='Cs-Fuck MultiHack',
     version='0.0.2',
-    author='Sofia, Its-Vichy',
+    author='Its-Vichy, Sofia',
     python_require='>=3.0',
     packages=find_packages(),
     install_package_data=True,
