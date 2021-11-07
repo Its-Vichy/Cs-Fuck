@@ -16,9 +16,7 @@
 
 > # Feature.
 
-* TriggerBot
 * Glow Esp 
-* NoFlash
 
 <br>
 
@@ -30,12 +28,6 @@
 2. python main.py
 3. Get fun !
 ``` 
-
-<br>
-
-> # I have a problem with cheat.
-
-* You can fount the updated offset [here](https://github.com/frk1/hazedumper/blob/master/csgo.hpp).
 
 <br>
 
