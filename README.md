@@ -1,4 +1,4 @@
-<h1 align="center">Cs::Fuck</h1>
+<h1 align="center">Cs-Fuck</h1>
 
 <p align='center'>
     <b>🍦 Cheat for cs:go written in Python.</b><br>
@@ -17,16 +17,18 @@
 > # Feature.
 
 * Glow Esp
+* No Flash
 
 <br>
 
 > # Setup.
 
 ```
-0. pip install -e
+0. pip3 install .
 1. Disable "raw mouse input" and "mouse acceleration" in cs:go settings
-2. python main.py
-3. Get fun !
+2. Do python3 cs_fuck.py (via the terminal in Cs-Fuck Folder)
+3. It is prefered to start the cheat when you are in a match.
+4. Get fun !
 ```
 
 <br>
@@ -35,13 +37,14 @@
 
 * ***This project was made for educational purposes only! I take no responsibility for anything you do with this program.***
 * ***If you have any suggestions, problems, open a problem (if it is an error, you must be sure to look if you can solve it with [Google](https://giybf.com)!)***
+* ***If the cheat does not report any error but does not work. Restart it in game.***
 
 <br>
 
 > # Support me.
 
 * Thanks for looking at this repository, if you like to press the ⭐ button!
-* Made with 💖 by [Vichy](https://github.com/Its-Vichy).
+* Made with 💖 by [Vichy](https://github.com/Its-Vichy) and [Sofia](https://github.com/Soofiaaa).
 * RCΛ Love u.
 
 <p align="center">
