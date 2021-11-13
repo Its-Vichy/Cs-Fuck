@@ -15,6 +15,7 @@ setup(
     install_requires=[
         'pyfade',
         'pymem',
-        'requests'
+        'requests',
+        'colorfull==0.0.3'
     ]
 )
