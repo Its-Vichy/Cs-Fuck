@@ -5,6 +5,7 @@ from cheats.no_flash import NoFlash
 
 from os import system
 from threading import Thread
+from colorfull import init; init()
 
 class CsFuck:
     def _run(self):
